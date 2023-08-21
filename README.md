@@ -19,7 +19,7 @@
 </div>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=Ola!+me+chamo+Caio+Diniz;Sou+estudante+de;Ciencia+da+Computacao" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Ola!+me+chamo+Arthur+Xavier;Sou+estudante+de;Ciencia+da+Computacao" alt="Typing SVG" /></a>
 
 
 - 🥇 Estudante de Ciência da Computação.
