@@ -17,3 +17,45 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=kimadzn" height="150"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=kimadzn" height="150"   />
 </div>
+
+
+<h3 align="center">
+ Bem Vindo à meu perfil!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=Ola!+me+chamo+Caio+Diniz;Sou+estudante+de;Ciencia+da+Computacao" alt="Typing SVG" /></a>
+
+
+- 🥇 Estudante de Ciência da Computação.
+- 🌱 Estudando C e C++.
+- 📫 Contate-me no email: kimadzn@gmail.com.
+
+
+
+## 🛠  Tech Stack
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"                   height="30" width="42" alt="C logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"   height="30" width="42" alt="Cplusplus logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"           height="30" width="42" alt="html5 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"             height="30" width="42" alt="css3 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+
+</div>
+
+ <h2 align="center">Contate-me também por:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/arthur-xavierm/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="Arthur" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/tutumx/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="caio" height="30"/></a>
+      <br>
+    </p>
+     
+     
