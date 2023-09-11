@@ -11,8 +11,8 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=kimadzn" height="150"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=kimadzn" height="150"   />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimadzn&theme=great-gatsby&hide_border=true&background=EB545400" /></p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Kimadzn&theme=buefy&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Kimadzn&theme=great-gatsby&hide_border=true&background=EB545400](https://streak-stats.demolab.com?user=Kimadzn&theme=buefy&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats))" /></p>
+  
 </div>
 
 
