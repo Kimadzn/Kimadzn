@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Arthur Xavier</h2>
 
 - 🥇 Estudante de Ciência da Computação.
-- 🌱 Estudando C e C++.
 - 📫 Contate-me no email: kimadzn@gmail.com.
 
 <h3 align="center">A passionate computer science student from Brazil.</h3>
@@ -23,6 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"           height="30" width="42" alt="html5 logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"             height="30" width="42" alt="css3 logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" width="42" alt="javascript logo"  />
+
 
 </div>
 
