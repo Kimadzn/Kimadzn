@@ -1,17 +1,16 @@
-<h2 align="center">Hi 👋, I'm Arthur Xavier</h2>
+<h1 align="center">Hi 👋, I'm Arthur Xavier</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-- 🥇 Estudante de Ciência da Computação.
-- 📫 Contate-me no email: kimadzn@gmail.com.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimadzn&label=Profile%20views&color=0e75b6&style=flat" alt="kimadzn" /> </p>
 
-<h3 align="center">A passionate computer science student from Brazil.</h3>
+- 🌱 I’m currently studying **computer science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Kimadzn?tab=repositories](https://github.com/Kimadzn?tab=repositories)
+
+- 📫 How to reach me **kimadzn@gmail.com**
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=kimadzn" height="150"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=kimadzn" height="150"   />
-  <img align="center" src="https://streak-stats.demolab.com/?user=Kimadzn&theme=buefy&date_format=j%20M%5B%20Y%5D" />  
-  </div>
+</p>
 
 
 ## 🛠  Tech Stack
@@ -23,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"             height="30" width="42" alt="css3 logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" width="42" alt="javascript logo"  />
+  
 
 
 </div>
@@ -41,4 +41,6 @@
       <br>
     </p>
      
-     
+<div align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimadzn&show_icons=true&locale=en&layout=compact" alt="kimadzn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimadzn&" alt="kimadzn" /></p>     </div>
