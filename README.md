@@ -1,28 +1,54 @@
-# Hi there 👋, I'm Arthur Xavier
+<h1 align="center">Hello, I'm Arthur Xavier 👋</h1>
 
-## About Me
+<p align="center">
+  <em>Student • Visionary • Developer</em>
+</p>
 
-- 🔭 I’m currently studying Computer Science.
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/Kimadzn?tab=repositories).
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+</p>
+
+---
+
+<p align="center">
+  I'm passionate about elegant software, bold ideas, and changing the world through technology.  
+  Here you’ll find code, creativity, and a commitment to craft.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-xavierm/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:kimadzn@gmail.com">
+    <img src="https://img.shields.io/badge/-kimadzn@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently studying Computer Science at PUC MINAS
 - 📫 You can reach me at [kimadzn@gmail.com](mailto:kimadzn@gmail.com).
 
-## 🛠 Tech Stack
+---
 
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### 💻 Tech Stack Highlights
 
-## Connect with Me
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimadzn&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-xavierm/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tutumx/)
+---
 
-## GitHub Stats
+### 🟩 Latest Commit Energy
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimadzn&show_icons=true&locale=en&layout=compact&theme=dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kimadzn&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
 
